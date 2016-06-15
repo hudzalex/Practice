@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string-array name="valute">
+        <item>Доллар</item>
+        <item>Евро</item>
+        <item>Фунты</item>
+
+    </string-array>
 </resources>
